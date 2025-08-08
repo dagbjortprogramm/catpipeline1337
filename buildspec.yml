@@ -4,7 +4,7 @@ env:
   variables:
     AWS_ACCOUNT_ID: "441244352922"
     AWS_DEFAULT_REGION: "us-east-1"
-    IMAGE_REPO_NAME: "catpipeline1337"
+    IMAGE_REPO_NAME: "catpipeline"
     IMAGE_TAG: "latest"
 
 phases:
